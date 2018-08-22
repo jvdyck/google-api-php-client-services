@@ -147,6 +147,10 @@ class Google_Service_People extends Google_Service
                   'location' => 'query',
                   'type' => 'string',
                 ),
+                'personFields' => array(
+                  'location' => 'query',
+                  'type' => 'string',
+                ),
                 'syncToken' => array(
                   'location' => 'query',
                   'type' => 'string',
